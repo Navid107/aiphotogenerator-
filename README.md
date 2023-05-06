@@ -1,6 +1,5 @@
 
-#AiPhotoGenerator by AI Dale-E
-
+# AiPhotoGenerator by AI Dale-E
 AI DALL-E is an advanced artificial intelligence model developed by OpenAI that generates highly detailed and realistic images from natural language descriptions. It has potential applications in design, art, and entertainment.
 
 ## A fully functional project written in Node.js showing how to create a REST API
